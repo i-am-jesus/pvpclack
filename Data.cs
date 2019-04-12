@@ -1,8 +1,4 @@
-﻿// Decompiled with JetBrains decompiler
-// Type: CMD.Data
-// Assembly: CⅯD, Version=10.0.16299.15, Culture=neutral, PublicKeyToken=null
-// MVID: A4F1CAA0-B7FE-4C8D-83A4-D166C09344D1
-// Assembly location: C:\Python34\pycmd.exe
+﻿// Decompiled with JetBrains decompiler by shitkid
 
 namespace CMD
 {
