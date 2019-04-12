@@ -1,0 +1,9 @@
+C:\Users\njT\Desktop\pycmd\bin\Debug\CⅯD.exe
+C:\Users\njT\Desktop\pycmd\bin\Debug\CⅯD.pdb
+C:\Users\njT\Desktop\pycmd\obj\Debug\pycmd.csprojAssemblyReference.cache
+C:\Users\njT\Desktop\pycmd\obj\Debug\CMD.a.resources
+C:\Users\njT\Desktop\pycmd\obj\Debug\CMD.Properties.Resources.resources
+C:\Users\njT\Desktop\pycmd\obj\Debug\pycmd.csproj.GenerateResource.cache
+C:\Users\njT\Desktop\pycmd\obj\Debug\pycmd.csproj.CoreCompileInputs.cache
+C:\Users\njT\Desktop\pycmd\obj\Debug\CⅯD.exe
+C:\Users\njT\Desktop\pycmd\obj\Debug\CⅯD.pdb
